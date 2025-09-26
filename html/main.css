@@ -1,0 +1,21 @@
+body.regular-gradient {
+    background-image: radial-gradient(circle at 100%, #4b0082, #6a5acd, #ffff00);
+}
+
+hr.simple {
+    height: 4px;
+    background: linear-gradient(90deg,
+    #ff9912 0%,
+    #d02090 25%,
+    #eeeeee 50%,
+    #ffff00 75%,
+    #8a2be2 100%);
+    border: none;
+    border-radius: 2px;
+    margin: 30px 0;
+    box-shadow: 0 2px 10px rgba(255, 107, 107, 0.3);
+}
+
+h1.main-heading {
+    color: #00c957
+}
